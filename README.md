@@ -16,3 +16,5 @@ https://www.kaggle.com/code/maryamanwer/ddos-attack-detection-using-ml/data
 References:
 https://ieeexplore.ieee.org/document/9083716
 https://journalofbigdata.springeropen.com/articles/10.1186/s40537-022-00616-0#:~:text=A%20mathematical%20model%20and%20a%20machine%20learning%20model%20have%20been,as%20compared%20to%20Naive%20Bayes.
+
+Short Video Explaining Our Findings: https://drive.google.com/file/d/1sNsNoA8zIRkad6tyLS3t4_Vdp3zU4h04/view
